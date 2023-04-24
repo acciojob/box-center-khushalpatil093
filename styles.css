@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+	display: flex;
+	justify-content: center;
+}
+
+div {
+	border: 1px solid black;
+	position: fixed;
+	background: lightblue;
+	padding: 50px 40px;
+}
