@@ -5,7 +5,7 @@ body{
 }
 
 div {
-	border: 1px solid black;
+	border: 2px solid black;
 	position: fixed;
 	background: lightblue;
 	padding: 50px 40px;
